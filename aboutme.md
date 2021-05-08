@@ -4,10 +4,9 @@ title: About me
 subtitle: Saratigne
 ---
 
-## My name is [R E D A C T E D] 
-
-Hint: FMY, Find My Yacht.
+## My name is [R E D A C T E D]
+I make things. Sometimes they explode. Actually, its most of the time. 
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch **Find My Yacht**.
+K A B O O O M
