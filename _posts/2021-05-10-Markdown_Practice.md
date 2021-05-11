@@ -21,9 +21,9 @@ all messages written by this person will now be confisticated. we will be sendin
 ***ok***
 
 # ok our shopping list
--m16s,
--dragonuv
--cocaine
--grugs
--cute babies
--jesus
+- m16s,
+- dragonuv
+- cocaine
+- grugs
+- cute babies
+- jesus
