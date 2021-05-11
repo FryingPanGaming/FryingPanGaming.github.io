@@ -19,7 +19,7 @@ this is the fbi typing
 all messages written by this person will now be confisticated. we will be sending a memetic image through this website and all personel who have viewed this will be instantly commit die. 
 # execute order 66 
 ***ok***
-![Tux, the Linux mascot](/assets/images/SCP-001.png)
+![Tux, the Linux mascot](/assets/img/SCP-001.jpg)
 
 # ok our shopping list
 - m16s,
