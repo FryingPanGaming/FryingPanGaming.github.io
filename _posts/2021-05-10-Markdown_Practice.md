@@ -2,9 +2,9 @@
 layout: post
 title: Hello guys welcome to mah mincraft les play :DDD
 subtitle: ahhhhhhhhhhhhhh
-cover-img: /assets/img/gaben_all_hail.jpeg
-thumbnail-img: /assets/img/gaben_all_hail.jpeg
-share-img: /assets/img/gaben_all_hail.jpeg
+cover-img: /assets/img/gaben all hail.jpeg
+thumbnail-img: /assets/img/gaben all hail.jpeg
+share-img: /assets/img/gaben all hail.jpeg
 tags: [books, test]
 --
 
