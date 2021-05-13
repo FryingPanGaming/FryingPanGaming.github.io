@@ -2,9 +2,9 @@
 layout: post
 title: Thy Holy Scripture of Gaben 
 subtitle: All Hail RNGesus
-cover-img: /assets/img/gaben all hail.jpeg
-thumbnail-img: /assets/img/gaben all hail.jpeg
-share-img: /assets/img/gaben all hail.jpeg
+cover-img: /assets/img/ganen
+thumbnail-img: /assets/img/ganen
+share-img: /assets/img/ganen
 tags: [books, test]
 --
 
