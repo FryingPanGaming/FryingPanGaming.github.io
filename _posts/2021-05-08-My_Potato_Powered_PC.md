@@ -9,3 +9,4 @@ tags: [books, test]
 ---
 
 I hate my PC so much. I cant even fricking run Roblox Studios, without it crashing. Then, whenever I load a game, my computer starts overheating as heck and it burns my hands to play. Thus, I have decided to put ice on the keyboard while playing. However, there are some drawbacks, such as getting wet fingers and electrocution, but obviously, wet fingers is much more annoying. 
+ 
