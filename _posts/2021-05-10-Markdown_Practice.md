@@ -1,14 +1,15 @@
 ---
 layout: post
-title: Hello guys welcome to mah mincraft les play :DDD
-subtitle: ahhhhhhhhhhhhhh
+title: Thy Holy Scripture of Gaben 
+subtitle: All Hail RNGesus
 cover-img: /assets/img/gaben all hail.jpg
 thumbnail-img: /assets/img/gaben all hail.jpg
 share-img: /assets/img/gaben all hail.jpg
 tags: [books, test]
 --
 
-Prayer for Gaben and thee RNGesus of holiness, let thou watch over our skins, and bless us with knives. Thou who has been brought to scammation, let us pray for their sake. 
+Prayer for Gaben and thee RNGesus of holiness, let thou watch over our skins, and bless us with knives. 
+Thou who has been brought to scammation, let us pray for their sake. 
 Prayer Excepert from *Thy Book of CSGO, Excerpts 1-1000* number 243.
 
 1. Let us Pray.
