@@ -13,4 +13,6 @@ I hate my PC so much. I cant even fricking run Roblox Studios, without it crashi
 "Thanks, and have fun"  
 - Gaben himself  
 
-Oh hey Gaben!
+Hey Gaben, can I pls borrow some keys pls?
+
+No money, no keys. Welcome to the real world you dirty begger of a human.
